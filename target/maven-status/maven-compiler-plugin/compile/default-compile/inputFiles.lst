@@ -1,0 +1,14 @@
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\Main.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\writers\OutputWriter.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\writers\OutputWriterStrategy.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\validators\CharacterValidator.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\MathOperator.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\writers\ConsoleOutputWriter.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\validators\InputStringValidator.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\validators\EmptyInputValidator.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\validators\InputValidator.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\ReversePolishNotationParser.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\ReversePolishNotationParserImpl.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\readers\InputReader.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\readers\InputReaderStrategy.java
+C:\Users\wojteq\Desktop\hsbc\src\main\java\com\hsbc\wszymski\rpnparser\readers\MainMethodParameterReader.java
